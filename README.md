@@ -22,7 +22,7 @@ Para isso, são utilizados Parâmetros de Campos (Field Parameters), possibilita
 - Power BI Desktop;
 - Parâmetros de Campos (Field Parameters);
 - Base de dados do desafio do módulo anterior.
-- 
+ 
 ##
 🧿**Visão:**
 
